@@ -1,0 +1,10 @@
+a {
+	font-size:20px;
+	text-decoration:none;
+	color:#00FF00;
+	transition:0.1s;
+}
+a:hover {
+	color:#00FFFF;
+	transition:0.1s;
+}
